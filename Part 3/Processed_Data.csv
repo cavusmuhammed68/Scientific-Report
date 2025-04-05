@@ -1,0 +1,324 @@
+Region,How often do you use public charging stations for your EV?_Monthly,How often do you use public charging stations for your EV?_Never,How often do you use public charging stations for your EV?_Rarely,How often do you use public charging stations for your EV?_Weekly,What is your daily average travel distance?_30km to 50km,What is your daily average travel distance?_50km to 100km,What is your daily average travel distance?_Less than 10km,What is your daily average travel distance?_More than 100km,"Given there’s a charging point nearby but it’s occupied by another vehicle, what is the maximum timing you’re willing to wait for your turn?_20 to 30 minutes.","Given there’s a charging point nearby but it’s occupied by another vehicle, what is the maximum timing you’re willing to wait for your turn?_< 10 minutes.","Given there’s a charging point nearby but it’s occupied by another vehicle, what is the maximum timing you’re willing to wait for your turn?_> 30 minutes.",At what time of day do you usually start charging your EV?_12pm to 6pm,At what time of day do you usually start charging your EV?_6am to 12pm,At what time of day do you usually start charging your EV?_6pm to 12am,How often in one week do you charge your vehicle?_3 to 4 times,How often in one week do you charge your vehicle?_5 to 6 times,How often in one week do you charge your vehicle?_Every day to the week,What is the average duration of your charge?_3 to 6 hours,What is the average duration of your charge?_Less than 1 hour,What is the average duration of your charge?_More than 6 hours
+Newcastle,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False,False,True,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,True
+Newcastle,False,True,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False
+Newcastle,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True
+Newcastle,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False,True,False,False
+Newcastle,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,True,False
+Newcastle,False,False,False,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Newcastle,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False,False
+Newcastle,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Newcastle,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+Newcastle,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False
+Newcastle,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False
+Newcastle,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+Newcastle,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+Newcastle,False,False,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,True,False,False,True,False,False,False,True,False,False,False,True,False,False
+Newcastle,True,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Newcastle,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True
+Newcastle,False,False,False,True,False,True,False,False,False,True,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,False,False,True,False,False,True,False,False,False,False,True
+Newcastle,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,True,False,False,True,False,False,True,False,False
+Newcastle,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+Newcastle,False,True,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+Newcastle,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False
+Newcastle,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False,True,False,False,False,False
+Newcastle,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True
+Newcastle,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False
+Newcastle,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False,True
+Newcastle,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,True
+Newcastle,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,True,False,False
+Newcastle,False,False,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True
+Newcastle,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False
+Newcastle,True,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True
+Newcastle,False,False,False,True,True,False,False,False,False,False,True,False,True,False,True,False,False,True,False,False
+Newcastle,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,False
+Newcastle,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,True,False,False,True
+Newcastle,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Newcastle,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True
+Newcastle,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False
+Newcastle,True,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,True
+Newcastle,False,False,False,True,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,True,False,False,True,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,True,False,False,False,False,False,True,False,False,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,True,False,False,False,False,True,False,True,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,True,False
+Newcastle,False,False,False,True,True,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+Newcastle,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False
+Newcastle,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,True
+Newcastle,False,False,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True
+Newcastle,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Newcastle,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True
+Newcastle,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+Newcastle,False,False,False,True,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+Newcastle,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,False,True,True,False,False,True,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False
+Newcastle,False,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+Newcastle,False,False,False,True,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,True
+Newcastle,True,False,False,False,False,True,False,False,True,False,False,False,False,False,True,False,False,False,False,True
+Newcastle,False,False,False,True,True,False,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+Newcastle,False,False,False,True,False,True,False,False,False,True,False,False,False,True,False,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False
+Newcastle,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False
+Newcastle,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True
+Newcastle,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+Newcastle,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,False,False,False,True,False
+Newcastle,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+Newcastle,False,True,False,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False
+Newcastle,False,True,False,False,True,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False
+Newcastle,False,False,False,True,False,True,False,False,True,False,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Newcastle,False,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,False,False
+Newcastle,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,True,False,True,False,False
+Newcastle,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+Newcastle,False,False,True,False,True,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False
+Newcastle,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,True
+Newcastle,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Newcastle,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False
+Newcastle,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False
+Newcastle,False,False,False,True,False,True,False,False,True,False,False,False,False,True,True,False,False,False,False,False
+Newcastle,False,False,True,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False
+Newcastle,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True
+Newcastle,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True
+Newcastle,False,True,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+Newcastle,True,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,True,False
+Newcastle,False,True,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False
+Newcastle,True,False,False,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Newcastle,True,False,False,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True
+Newcastle,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+Newcastle,False,False,False,True,False,False,True,False,False,True,False,False,False,False,True,False,False,False,True,False
+Newcastle,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True
+Newcastle,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,True,False,False,True,False,True,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+Newcastle,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Newcastle,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+Newcastle,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,True,False,False
+Newcastle,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False
+Newcastle,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False
+Newcastle,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Newcastle,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+Newcastle,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False
+Newcastle,True,False,False,False,False,True,False,False,False,True,False,False,False,True,False,False,True,True,False,False
+Newcastle,False,False,True,False,False,False,True,False,False,True,False,False,True,False,True,False,False,False,False,False
+West Midlands,False,False,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,True,False,False,True,False,False,True,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+West Midlands,False,False,True,False,False,False,True,False,True,False,False,False,True,False,False,False,False,True,False,False
+West Midlands,False,False,True,False,False,False,True,False,False,False,False,False,True,False,False,True,False,False,True,False
+West Midlands,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True
+West Midlands,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False
+West Midlands,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False,True
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+West Midlands,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,True
+West Midlands,False,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False,True,False,False
+West Midlands,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,False,True,False,False
+West Midlands,False,True,False,False,True,False,False,False,False,True,False,False,False,True,True,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True
+West Midlands,False,False,False,True,False,True,False,False,False,False,False,True,False,False,False,False,True,False,True,False
+West Midlands,True,False,False,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+West Midlands,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+West Midlands,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+West Midlands,False,False,False,True,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,True
+West Midlands,False,False,False,False,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
+West Midlands,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,True,False,False
+West Midlands,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False
+West Midlands,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False
+West Midlands,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+West Midlands,False,False,True,False,True,False,False,False,False,True,False,False,True,False,True,False,False,False,False,False
+West Midlands,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+West Midlands,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,True,False,False,True,False,False,False,True,True,False,False,False,False,False
+West Midlands,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,True
+West Midlands,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+West Midlands,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+West Midlands,False,False,False,True,False,False,True,False,False,False,False,True,False,False,True,False,False,False,True,False
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+West Midlands,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False,False,False,True
+West Midlands,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,True,False,False
+West Midlands,False,False,False,True,False,False,False,True,False,True,False,False,False,True,False,True,False,False,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,True,False,False
+West Midlands,False,False,False,True,False,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+West Midlands,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False
+West Midlands,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+West Midlands,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False
+West Midlands,False,False,False,True,True,False,False,False,False,False,False,True,False,False,True,False,False,False,True,False
+West Midlands,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+West Midlands,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+West Midlands,False,True,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+West Midlands,False,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,True
+West Midlands,False,False,True,False,True,False,False,False,False,False,True,False,False,True,False,False,False,True,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+West Midlands,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+West Midlands,False,False,True,False,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+West Midlands,False,False,True,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False,True
+West Midlands,False,True,False,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,True
+West Midlands,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,False,True,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,True,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+West Midlands,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+West Midlands,False,True,False,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,True
+West Midlands,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True
+West Midlands,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True
+West Midlands,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+West Midlands,False,False,False,False,True,False,False,False,True,False,False,False,False,True,True,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True
+West Midlands,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+West Midlands,False,True,False,False,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+West Midlands,True,False,False,False,True,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+West Midlands,True,False,False,False,False,False,False,True,True,False,False,False,False,True,True,False,False,False,False,True
+West Midlands,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False
+West Midlands,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+West Midlands,False,False,False,True,False,False,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+West Midlands,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,True
+West Midlands,False,False,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False,False,False,False
+West Midlands,False,False,True,False,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False,False
+West Midlands,True,False,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False,True
+West Midlands,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True
+West Midlands,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+West Midlands,False,False,False,True,False,True,False,False,False,True,False,False,False,False,False,True,False,True,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+West Midlands,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+West Midlands,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+West Midlands,False,False,False,True,False,False,True,False,False,True,False,True,False,False,True,False,False,False,True,False
+West Midlands,False,False,True,False,True,False,False,False,False,True,False,False,False,False,True,False,False,True,False,False
+West Midlands,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,True,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+West Midlands,False,False,False,True,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False
+West Midlands,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True
+West Midlands,False,False,False,True,False,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+West Midlands,False,False,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False
+West Midlands,True,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,True,False,False
+West Midlands,False,False,False,False,False,False,False,True,True,False,False,False,False,True,False,False,True,False,False,True
+West Midlands,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+West Midlands,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,True,False,True,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False
+West Midlands,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,True,False
+West Midlands,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False
+West Midlands,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,True,False,False,True,False,True,False,False,False,False,True,False,False,True
+West Midlands,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+West Midlands,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+West Midlands,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+West Midlands,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,True,False,False,False,True
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False,True
+West Midlands,False,False,False,True,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+West Midlands,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+West Midlands,False,False,True,False,True,False,False,False,False,True,False,False,False,True,True,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+West Midlands,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False,False
+West Midlands,False,True,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False,True
+West Midlands,True,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+West Midlands,False,False,False,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,True,False
+West Midlands,False,False,True,False,False,True,False,False,False,True,False,False,False,True,False,False,True,False,False,True
+West Midlands,False,False,False,True,False,False,True,False,False,False,False,False,False,True,True,False,False,True,False,False
+West Midlands,False,False,True,False,True,False,False,False,False,True,False,False,False,False,True,False,False,True,False,False
+West Midlands,False,True,False,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,True,False
+West Midlands,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+West Midlands,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+West Midlands,True,False,False,False,False,False,True,False,False,True,False,False,False,True,True,False,False,False,False,True
+West Midlands,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+West Midlands,False,False,True,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+West Midlands,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,True,True,False,False
+West Midlands,False,False,False,True,False,True,False,False,False,True,False,False,False,True,True,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True
+West Midlands,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+West Midlands,False,False,False,True,False,False,False,False,False,True,False,False,False,True,True,False,False,True,False,False
+West Midlands,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+West Midlands,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,True
+West Midlands,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False
+West Midlands,False,False,True,False,True,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True
+West Midlands,True,False,False,False,False,False,True,False,False,True,False,False,False,True,False,False,False,True,False,False
+West Midlands,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,True
